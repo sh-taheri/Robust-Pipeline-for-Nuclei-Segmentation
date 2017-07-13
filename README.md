@@ -4,3 +4,6 @@ Despite considerable research, nuclei segmentation is still a challenging task d
 
 
 
+<img src="https://github.com/sh-taheri/Robust-Pipeline-for-Nuclei-Segmentation/blob/master/images/Comparison1.png?raw=true" alt="Drawing" width="500">
+<img src="https://github.com/sh-taheri/Robust-Pipeline-for-Nuclei-Segmentation/blob/master/images/Comparison2.png?raw=true" alt="Drawing" width="500">
+
